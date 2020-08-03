@@ -1,0 +1,6 @@
+framework module Pods_swiftDemo_CY {
+  umbrella header "Pods-swiftDemo_CY-umbrella.h"
+
+  export *
+  module * { export * }
+}
